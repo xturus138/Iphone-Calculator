@@ -11,3 +11,10 @@ A user-friendly calculator project, drawing inspiration from the iPhone calculat
   <li><a href="https://kotlinlang.org/">Kotlin</a>✅ - First class and official programming language for Android development.</li>
   <li><a href="https://developer.android.com/studio?gclid=CjwKCAiAzJOtBhALEiwAtwj8thOKLRSOeXXGGsTZlnY9DpSwK-Xnag7YE46YE8eTAPO2eUVaAZhncBoCmVgQAvD_BwE&gclsrc=aw.ds">Android Studio</a>✅ - official Integrated Development Environment (IDE) for Android app development.</li>
 </ul>
+
+<h1>Demo 🎬</h1>
+<img
+  src="/path/to/img.jpg"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
