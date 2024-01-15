@@ -72,7 +72,7 @@ If you want to contribute to this project and make it better with new ideas, you
 
 <h1>Contact 📧</h1>
 
-For support, email radityaramadhan.138@gmail.com or join our Slack channel.
+For support/question, email radityaramadhan.138@gmail.com or visit my profile for links!.
 
 
 
