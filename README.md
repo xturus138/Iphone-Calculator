@@ -54,7 +54,7 @@ https://github.com/xturus138/MOBILE-PABCL2024/assets/156584367/63ad89d8-da66-407
 
 #### Can I download it for my personal use?
 
-You certainly can! If somebody want to making this calculator better, it would be great!. Perhaps we could have a chat ✨✨.
+You certainly can! If somebody want to making this calculator better, it would be great!. Perhaps we could have a chat ✨.
 
 
 #### Are there any sanctions for copying your project?
