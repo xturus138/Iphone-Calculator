@@ -61,6 +61,18 @@ You certainly can! If somebody want to making this calculator better, it would b
 
 No, but it would be greatly appreciated if you could make a brief mention of me 😊.
 
+<br>
+
+
+<h1>Contributing 💡</h1>
+
+If you want to contribute to this project and make it better with new ideas, your pull request is very welcomed. If you find any issue just put it in the repository issue section, thank you.
+
+<br>
+
+<h1>Contact 📧</h1>
+
+For support, email radityaramadhan.138@gmail.com or join our Slack channel.
 
 
 
