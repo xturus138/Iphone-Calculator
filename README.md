@@ -1,4 +1,4 @@
-# MOBILE-PABCL2024
+# Iphone Calculator
 
 A user-friendly calculator project, drawing inspiration from the iPhone calculator, has been developed for assignment codelabs. Almost everything I coded is explained in the project code. The code is simple and easy to understand because it implies simple logic. If you have any further questions, please email me at the end of the description.
 <br>
