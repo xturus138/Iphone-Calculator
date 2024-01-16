@@ -7,14 +7,15 @@ import android.os.Bundle
 import android.util.Log
 import android.widget.Button
 import android.widget.TextView
-import kotlin.math.log
 
 class MainActivity : AppCompatActivity() {
     //Semua logika dibuatkan pada satu file main dan tidak menggunakan konsep yang diluar course seperti mvc
     //Metode algoritma yang digunakan yaitu logika sederhana dengan metode sequential untuk melakukan proses perhitungan
+    //Project ini ada di github https://github.com/xturus138
 
     //Kekurangan dari aplikasi kalkulator ini yaitu belum mampu untuk memperlihatkan output angka lebih dari 5 digit
     //Kekurangan aplikasi ini juga tidak bisa menjadi horizontal dan aplikasi hanya dibuat untuk vertikal
+    //Bug force close dan null sudah teratasi, untuk saat ini belum menemukan bug lagi
 
     //Inisialisasi Log Tag (berfungsi untuk log pada logcat nanti saat running)
     private val TAG = "MainActivity"
