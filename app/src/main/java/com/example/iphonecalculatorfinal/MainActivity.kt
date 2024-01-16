@@ -59,7 +59,7 @@ class MainActivity : AppCompatActivity() {
 
 
         //Preload sound effect agar bisa langsung digunakan
-        mediaPlayer = MediaPlayer.create(this, R.raw.iphone_click_cut);
+        mediaPlayer = MediaPlayer.create(this, R.raw.iphone_click_cut)
 
 
         //Menyambungkan variabel yang dibuat sebelumnya ke id file xml
@@ -347,8 +347,8 @@ class MainActivity : AppCompatActivity() {
     //Dari website codersguidebook.com
     fun mediaPlay() {
         if (mediaPlayer != null) {
-            mediaPlayer!!.seekTo(0);
-            mediaPlayer!!.start();
+            mediaPlayer!!.seekTo(0)
+            mediaPlayer!!.start()
         }
     }
 }
